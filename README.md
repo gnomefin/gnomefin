@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gnomefin&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact)](https://github.com/gnomefin)
 
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
