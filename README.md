@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Tokopedia/GoTo Logistics
 
-###Let's Connect
+### Let's Connect
 - [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
 - [Website/Blog](https://alfianfirmansyah.com)
 
