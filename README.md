@@ -5,6 +5,7 @@
 ### Let's Connect
 - [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
 - [Website/Blog](https://alfianfirmansyah.com)
+- me@alfianfirmansyah.com
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
