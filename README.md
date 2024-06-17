@@ -1,14 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I am Alfian!
 
 🔭 I’m currently working on Tokopedia/GoTo Logistics
 🌱 University of Indonesia Student (2017), Studied Computer Engineering
 💡 Currently Writing a tech blog on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 
-### Let's Connect
+## 📱 Let's Connect
 - Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
 - Professional Email: me@alfianfirmansyah.com
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
 
 [![Gnomefin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gnomefin&theme=github)](https://github.com/gnomefin/github-readme-activity-graph)
