@@ -1,7 +1,7 @@
 # 👋 Hi, I am Alfian!
 
-🔭 I’m currently working on Tokopedia/GoTo Logistics
-🌱 University of Indonesia Student (2017), Studied Computer Engineering
+🔭 I’m currently working on Tokopedia/GoTo Logistics <br>
+🌱 University of Indonesia Student (2017), Studied Computer Engineering <br>
 💡 Currently Writing a tech blog on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 
 ## 📱 Let's Connect
