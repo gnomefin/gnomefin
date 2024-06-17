@@ -1,10 +1,11 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Tokopedia/GoTo Logistics
+🌱 University of Indonesia Student (2017), Studied Computer Engineering
+💡 Currently Writing a tech blog on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 
 ### Let's Connect
 - Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
-- Personal Blog Website: [Website/Blog](https://alfianfirmansyah.com)
 - Professional Email: me@alfianfirmansyah.com
 
 ## GitHub Stats
@@ -15,4 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact)](https://github.com/gnomefin)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
+
+[![Alfian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnomefin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
