@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact)](https://github.com/gnomefin)
 
-![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
-
 ![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
