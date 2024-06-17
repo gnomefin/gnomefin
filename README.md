@@ -3,9 +3,9 @@
 🔭 I’m currently working on Tokopedia/GoTo Logistics
 
 ### Let's Connect
-- [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
-- [Website/Blog](https://alfianfirmansyah.com)
-- me@alfianfirmansyah.com
+- Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
+- Personal Blog Website: [Website/Blog](https://alfianfirmansyah.com)
+- Professional Email: me@alfianfirmansyah.com
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
