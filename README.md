@@ -17,7 +17,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
 
-[![Alfian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnomefin&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
