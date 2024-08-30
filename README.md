@@ -13,7 +13,7 @@
 
 [![Gnomefin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gnomefin&theme=github)](https://github.com/gnomefin/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact)](https://github.com/gnomefin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact&hide=html&langs_count=10)](https://github.com/gnomefin)
 
 ![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
