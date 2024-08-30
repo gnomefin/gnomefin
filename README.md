@@ -1,4 +1,4 @@
-# 👋 Hi, I am Alfian!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I am Alfian!
 
 🔭 I’m currently working at Levers Inc. (YC S22) <img src="https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png" alt="Levers Inc. Logo" width="60" /> [](https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png), ex-Tokopedia/GoTo. <br>
 🌱 University of Indonesia Student (2017), Studied Computer Engineering <br>
