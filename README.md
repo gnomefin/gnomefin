@@ -10,7 +10,7 @@
 
 ##  <img src="https://github.com/user-attachments/assets/ad713827-89c2-4f32-85a5-f27008374238" width="36px"> Profile Pic Attribution
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402" alt="image (8)">
+  <img src="https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402" width="300" height="300" alt="image (8)">
 </div>
 
 This profile picture is created by [Sophy](https://bit.ly/3ZlvxQB), my favourite streamer during year end drawing event! The progress was:
