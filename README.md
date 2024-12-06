@@ -10,7 +10,7 @@
 
 ## Profile Pic Attribution
 <div align="center">
-  ![image (8)](https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402)
+  <img src="https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402" alt="image (8)">
 </div>
 This profile picture is created by [Sophy](https://www.twitch.tv/sophy), my favourite streamer during year end drawing event! The progress was:
 ![WhatsApp Image 2024-12-06 at 8 07 42 PM](https://github.com/user-attachments/assets/7a27e751-9018-47d2-b541-8e5b104de6b5)
