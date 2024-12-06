@@ -8,7 +8,7 @@
 - Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
 - Professional Email: me@alfianfirmansyah.com
 
-## Profile Pic Attribution
+##  <img src="https://github.com/user-attachments/assets/ad713827-89c2-4f32-85a5-f27008374238" width="36px"> Profile Pic Attribution
 <div align="center">
   <img src="https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402" alt="image (8)">
 </div>
