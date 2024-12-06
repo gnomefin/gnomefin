@@ -8,6 +8,13 @@
 - Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
 - Professional Email: me@alfianfirmansyah.com
 
+## Profile Pic Attribution
+This profile picture is created by [Sophy](https://www.twitch.tv/sophy), my favourite streamer during year end drawing event! The progress was:
+![WhatsApp Image 2024-12-06 at 8 07 42 PM](https://github.com/user-attachments/assets/7a27e751-9018-47d2-b541-8e5b104de6b5)
+![WhatsApp Image 2024-12-06 at 8 07 36 PM](https://github.com/user-attachments/assets/5ecc2bca-55b9-4d0f-8c0c-9834872305e8)
+
+Thanks sophy! much appreciated.
+
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="28px"> GitHub Stats
 ![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
 
@@ -18,3 +25,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
+
