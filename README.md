@@ -20,13 +20,23 @@ This profile picture is created by [Sophy](https://bit.ly/3ZlvxQB), my favourite
 Thanks sophy! much appreciated.
 
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="28px"> GitHub Stats
-![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=gnomefin)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnomefin" alt="Your GitHub stats">
+</div>
 
-[![Gnomefin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gnomefin&theme=github)](https://github.com/gnomefin/github-readme-activity-graph)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnomefin&theme=github" alt="Gnomefin's github activity graph">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact&hide=html&langs_count=10)](https://github.com/gnomefin)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact&hide=html&langs_count=10" alt="Top Languages">
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gnomefin&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Profile Trophies">
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gnomefin)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gnomefin" alt="Profile Views">
+</div>
 
