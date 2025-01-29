@@ -22,14 +22,11 @@ Thanks sophy! much appreciated.
 ## <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif" width="28px"> GitHub Stats
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=gnomefin&border_radius=40&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact&hide=html&langs_count=10" alt="Top Languages">
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnomefin&theme=github" alt="Gnomefin's github activity graph">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnomefin&layout=compact&hide=html&langs_count=10" alt="Top Languages">
 </div>
 
 <div align="center">
