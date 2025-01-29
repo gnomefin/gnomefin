@@ -3,6 +3,8 @@
 🔭 I’m currently working at Levers Inc. (YC S22) <img src="https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png" alt="Levers Inc. Logo" width="60" /> [](https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png), ex-Tokopedia/GoTo. <br>
 🌱 University of Indonesia Student, Studied Computer Engineering <br>
 💡 Currently Writing a tech blog on [Personal Blog](https://alfianfirmansyah.com) at least once a month
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ##  <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-gif.gif" width="36px"> Let's Connect
 - Linkedin Profile: [LinkedIn](https://linkedin.com/in/alfian-firmansyah)
