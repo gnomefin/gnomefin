@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I am Alfian!
 
-🛰️ EdTech Product Inventor <br>
+🛰️ EdTech Product Inventor https://submit-manuscript.org & https://terang.ai <br>
 🔭 Levers Inc. (YC S22) <img src="https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png" alt="Levers Inc. Logo" width="60" /> [](https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png), Tokopedia & GoTo. <br>
 🌱 University of Indonesia Alumnus <br>
 💡 Write-up on [Personal Blog](https://alfianfirmansyah.com) at least once a month
