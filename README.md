@@ -1,8 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I am Alfian!
 
-🔭 I’m currently working at Levers Inc. (YC S22) <img src="https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png" alt="Levers Inc. Logo" width="60" /> [](https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png), ex-Tokopedia/GoTo. <br>
-🌱 University of Indonesia Student, Studied Computer Engineering <br>
-💡 Currently Writing a tech blog on [Personal Blog](https://alfianfirmansyah.com) at least once a month
+🛰️ EdTech Product Inventor
+🔭 Levers Inc. (YC S22) <img src="https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png" alt="Levers Inc. Logo" width="60" /> [](https://cdn.prod.website-files.com/667582d0a4595ac186003a30/667973cfdb2eb4c5148ed0b7_Logo%20-%20White-p-500.png), Tokopedia & GoTo. <br>
+🌱 University of Indonesia Alumnus <br>
+💡 Write-up on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 <!-- BLOG-POST-LIST:START -->
 - [A Novel Methodology for Hunting Zero-Day Vulnerabilities in Software Supply Chains Using Fine-Tuned LLMs](https://alfianfirmansyah.com/a-novel-methodology-for-hunting-zero-day-vulnerabilities-in-software-supply-chains-using-fine-tuned-llms/)
 - [How I Hacked 2024: Principles to Grow](https://alfianfirmansyah.com/how-i-hacked-2024-principles-to-grow/)
@@ -40,8 +41,8 @@
   <img src="https://github.com/user-attachments/assets/56456048-b7c2-4255-83cd-9e66b15a8402" width="300" height="300" alt="image (8)">
 </div>
 
-This profile picture is created by [Sophy](https://bit.ly/3ZlvxQB), my favourite streamer during year end drawing event! The progress was:
-<img src="https://github.com/user-attachments/assets/7a27e751-9018-47d2-b541-8e5b104de6b5" alt="WhatsApp Image 2024-12-06 at 8 07 42 PM">
-<img src="https://github.com/user-attachments/assets/5ecc2bca-55b9-4d0f-8c0c-9834872305e8" alt="WhatsApp Image 2024-12-06 at 8 07 36 PM">
+This profile picture is created by [Sophy](https://bit.ly/3ZlvxQB), twitch streamer during year end drawing event.
+<!-- <img src="https://github.com/user-attachments/assets/7a27e751-9018-47d2-b541-8e5b104de6b5" alt="WhatsApp Image 2024-12-06 at 8 07 42 PM">
+<img src="https://github.com/user-attachments/assets/5ecc2bca-55b9-4d0f-8c0c-9834872305e8" alt="WhatsApp Image 2024-12-06 at 8 07 36 PM"> -->
 
 Thanks sophy! much appreciated.
