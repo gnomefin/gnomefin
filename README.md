@@ -5,11 +5,11 @@
 🌱 University of Indonesia Alumnus <br>
 💡 Write-up on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 <!-- BLOG-POST-LIST:START -->
-- [2026 Mindset, Mental, Model](https://alfianfirmansyah.com/2026-mindset-mental-model/)
-- [Indonesia Sebenarnya Butuh Apa? &lpar;Opinotes #2&rpar;](https://alfianfirmansyah.com/indonesia-sebenarnya-butuh-apa/)
-- [A Novel Methodology for Hunting Zero-Day Vulnerabilities in Software Supply Chains Using Fine-Tuned LLMs](https://alfianfirmansyah.com/a-novel-methodology-for-hunting-zero-day-vulnerabilities-in-software-supply-chains-using-fine-tuned-llms/)
-- [How I Hacked 2024: Principles to Grow](https://alfianfirmansyah.com/how-i-hacked-2024-principles-to-grow/)
-- [Opinotes #1 - Modern Personal Branding is weirder than I thought it would be](https://alfianfirmansyah.com/what-is-opinotes-and-personal-branding-in-society-5-0-era/)
+- [How If AI Runs Our Oral Exams? &lpar;Opinotes #3&rpar;](https://www.alfianfirmansyah.com/how-if-ai-runs-our-oral-exams/)
+- [2026 Mindset, Mental, Model](https://www.alfianfirmansyah.com/2026-mindset-mental-model/)
+- [Indonesia Sebenarnya Butuh Apa? &lpar;Opinotes #2&rpar;](https://www.alfianfirmansyah.com/indonesia-sebenarnya-butuh-apa/)
+- [A Novel Methodology for Hunting Zero-Day Vulnerabilities in Software Supply Chains Using Fine-Tuned LLMs](https://www.alfianfirmansyah.com/a-novel-methodology-for-hunting-zero-day-vulnerabilities-in-software-supply-chains-using-fine-tuned-llms/)
+- [How I Hacked 2024: Principles to Grow](https://www.alfianfirmansyah.com/how-i-hacked-2024-principles-to-grow/)
 <!-- BLOG-POST-LIST:END -->
 
 ##  <img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/09/linkedin-logo-gif.gif" width="36px"> Let's Connect
