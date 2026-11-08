@@ -16,7 +16,7 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.alfianfirmansyah.com/rss/"
+          feed_list: "https://www.alfianfirmansyah.com/archive/rss/" # write-ups channel; the main feed is mostly site entries
           # List write-ups only. Skip site entries for certifications, education, work, impact, awards and speaking.
           item_exec: |
             const skip = ['certification', 'education', 'work', 'impact', 'award', 'speaking'];
