@@ -13,7 +13,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://alfianfirmansyah.com/rss"
+          feed_list: "https://www.alfianfirmansyah.com/rss/"
+          # List write-ups only. Skip site entries for certifications, education, work, impact, awards and speaking.
+          item_exec: |
+            const skip = ['certification', 'education', 'work', 'impact', 'award', 'speaking'];
+            const names = (post.categories || []).map((c) => String(typeof c === 'string' ? c : (c && (c._ || c.term || c.name)) || '').toLowerCase());
+            if (names.some((n) => skip.includes(n))) { post = null; }
