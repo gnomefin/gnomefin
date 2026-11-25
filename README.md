@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I am Alfian!
 
-🛰️ AI and Data Strategist <br>
+🛰️ First of all, I love struggling in an absolute high uncertainty environment, that is why I love to do research. And now I am transitioning from being an Engineer -> to -> AI Research & Data Scientist <br>
 🔭 Levers Inc. (YC S22) <br>
 🌱 University of Indonesia | UC Berkeley Haas School of Business | Stanford AI Program <br>
 💡 Write-up on [Personal Blog](https://alfianfirmansyah.com) at least once a month
