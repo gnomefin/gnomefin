@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> Hi, I am Alfian!
 
 🛰️ Product Inventor <br>
-🔭 Levers Inc. (YC S22)
+🔭 Levers Inc. (YC S22) <br>
 🌱 University of Indonesia | UC Berkeley Haas School of Business | Stanford AI Program <br>
 💡 Write-up on [Personal Blog](https://alfianfirmansyah.com) at least once a month
 <!-- BLOG-POST-LIST:START -->
