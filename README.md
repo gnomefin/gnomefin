@@ -38,5 +38,3 @@
 This profile picture is created by [Sophy](https://bit.ly/3ZlvxQB)
 <!-- <img src="https://github.com/user-attachments/assets/7a27e751-9018-47d2-b541-8e5b104de6b5" alt="WhatsApp Image 2024-12-06 at 8 07 42 PM">
 <img src="https://github.com/user-attachments/assets/5ecc2bca-55b9-4d0f-8c0c-9834872305e8" alt="WhatsApp Image 2024-12-06 at 8 07 36 PM"> -->
-
-Thanks sophy! much appreciated.
